@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=Hekapo)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcom+to+the+club+buddy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+the+club+buddy)](https://git.io/typing-svg)
 
