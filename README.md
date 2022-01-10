@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=Hekapo)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcom+to+the+club+buddy)](https://git.io/typing-svg)
+
